@@ -1,7 +1,7 @@
 # work-envelops
 A work envelope, or robot's workspace, is the spatial region a robot can reach with its end-effector. Understanding a robot's work envelope is vital for design, assessing capabilities, and determining suitability for specific tasks. Work envelopes differ among robot configurations, each with unique shapes and ranges of motion for specific applications.
 
-
+## Robot Configurations
 1. Cartesian Robot
 The Cartesian robot, also known as a linear or gantry robot, employs three linear actuators along the X, Y, and Z axes to achieve motion. This configuration is characterized by its rectangular work envelope, with sides parallel to the X, Y, and Z axes. Cartesian robots are often used for tasks that require precise linear movements, such as pick-and-place operations or 3D printing.
 
